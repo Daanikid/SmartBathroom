@@ -1,4 +1,4 @@
-# U-Connection
+# SmartBathroom
 
 En este apartado podemos colocar notas o cosas que tengamos pendientes para saber que haremos la próxima sesión de trabajo.
 
